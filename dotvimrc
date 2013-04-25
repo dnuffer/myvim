@@ -1,2 +1,3 @@
-filetype plugin on
+filetype plugin indent on
 set modeline
+syntax on

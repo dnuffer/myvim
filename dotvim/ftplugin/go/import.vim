@@ -1,0 +1,1 @@
+../../../vim-golang/ftplugin/go/import.vim

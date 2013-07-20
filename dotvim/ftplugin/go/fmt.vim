@@ -1,1 +1,0 @@
-../../../vim-golang/ftplugin/go/fmt.vim

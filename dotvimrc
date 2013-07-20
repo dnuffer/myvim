@@ -1,3 +1,4 @@
 filetype plugin indent on
 set modeline
 syntax on
+set bg=dark

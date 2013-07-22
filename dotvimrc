@@ -3,3 +3,6 @@ filetype plugin indent on
 set modeline
 syntax on
 set bg=dark
+
+setlocal shiftwidth=3
+setlocal tabstop=3

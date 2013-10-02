@@ -7,3 +7,7 @@ set bg=dark
 
 setlocal shiftwidth=3
 setlocal tabstop=3
+
+" https://github.com/jiangmiao/simple-javascript-indenter
+" Brief Mode will indent no more than one level.
+let g:SimpleJsIndenter_BriefMode = 1

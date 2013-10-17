@@ -11,3 +11,6 @@ setlocal tabstop=3
 " https://github.com/jiangmiao/simple-javascript-indenter
 " Brief Mode will indent no more than one level.
 let g:SimpleJsIndenter_BriefMode = 1
+
+set undofile
+set undodir=$HOME/.vim/undo/

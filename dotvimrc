@@ -27,3 +27,6 @@ if has("autocmd") && exists("+omnifunc")
    \	 setlocal omnifunc=syntaxcomplete#Complete | 
    \	endif 
 endif 
+
+" clang_complete
+let g:clang_library_path="/usr/lib/llvm-3.4/lib/"

@@ -28,3 +28,6 @@ if has("autocmd") && exists("+omnifunc")
    \	endif 
 endif 
 
+" Override detection of *.md as modula to be markdown. I don't think I'll ever
+" use modula
+au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
